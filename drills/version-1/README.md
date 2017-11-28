@@ -1,6 +1,6 @@
 ## Galvanize Kitchen: Supply Manager
 
-You are being tasked with building a supply management tool for the Galvanize Kitchen restaurant. Watch [this interview]() with the manager of the restaurant, and decide:
+You are being tasked with building a supply management tool for the Galvanize Kitchen restaurant. Watch [this interview](https://www.youtube.com/watch?v=U40PoK1ZSgU) with the manager of the restaurant, and decide:
 
 * What features you need to build
 * How those translate to user stories
