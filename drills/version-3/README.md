@@ -1,6 +1,6 @@
 ## Galvanize Kitchen: Tip Manager
 
-You are being tasked with building a tip management tool for the Galvanize Kitchen restaurant. Watch [this interview]() with the manager of the restaurant, and decide:
+You are being tasked with building a tip management tool for the Galvanize Kitchen restaurant. Watch [this interview](https://www.youtube.com/watch?v=xnFATIW27Mw) with the manager of the restaurant, and decide:
 
 * What features you need to build
 * How those translate to user stories

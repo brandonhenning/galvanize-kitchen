@@ -1,6 +1,6 @@
 ## Galvanize Kitchen: Point of Sale
 
-You are being tasked with building a Point of Sale system for the Galvanize Kitchen restaurant. Watch [this interview]() with the manager of the restaurant, and decide:
+You are being tasked with building a Point of Sale system for the Galvanize Kitchen restaurant. Watch [this interview](https://www.youtube.com/watch?v=Jqv9IFqBj24) with the manager of the restaurant, and decide:
 
 * What features you need to build
 * How those translate to user stories
