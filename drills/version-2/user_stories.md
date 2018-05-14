@@ -1,6 +1,6 @@
 
 Story 1 ) 
-    As a server I should have the ability to take an order from the customer and enter it into the system and have that order be added to all exisitng orders, this will save me time from manually writing orders for the kitchen.
+    As a server I should have the ability to take an order from the customer and enter it into the system and have that order be added to all existing orders, this will save me time from manually writing orders for the kitchen.
         - Acceptance criteria
             - entire order should be listed with id, items, quantity, and time order was placed
 
@@ -40,4 +40,3 @@ My justification for prioritizing is as follows :
     - kitchen staff needs to be able to indicate completion for them to stay organized and provide usefullness for orders being entered in the first place
     - bill creation at end of meal seems useful but not as much as order management between the kitchen staff and front of house staff so it is getting a lower prioritization 
     - payment process is icing on the cake for an efficient order management system and is not mission critical so gets lowest priority
-    
